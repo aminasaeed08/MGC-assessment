@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+mgc.db
+ml/model.joblib
+.venv/
+.env
